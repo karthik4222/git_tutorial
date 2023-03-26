@@ -43,7 +43,7 @@ def result(player,computer):
             print("Congrats!You Have Won")
             player_score+=1
         else:
-            print("Computer laughs as you lost")
+            print("Computer laughs and you lost")
             computer_score+=1
 def scores():
     global player_score,computer_score
