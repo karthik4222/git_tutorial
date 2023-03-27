@@ -40,7 +40,7 @@ def result(player,computer):
         
     else:
         if rules[player]==computer:
-            print("Congrats!You Have Won")
+            print("Congrats!Gelichav ra samba!")
             player_score+=1
         else:
             print("Computer laughs and you lost")
